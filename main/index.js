@@ -38,6 +38,10 @@ console.log(`getFirstsName():------>`, getFirstsName());
 
 /**
  * Difference between null and undefined
+ * There is not such type as null , null is an object
+ * Undefined: Value no assigned
+ * null: object
+ * There is not something better, the team can decide..
  */
 
 let a;
