@@ -28,3 +28,5 @@ const data = [
 export  const getFirstsName =() => {
     return data.filter(user=> user.active).map(user => user.first_name)
 }
+const name =  require("module")
+console.log(name)
